@@ -14,6 +14,8 @@ A hands-on project exploring how to install, configure and deploy a static websi
 ## Project Overview
 
 The goal of this project is to understand how web servers work and gain practical experience deploying a static website in a Linux environment.
+## Screenshot
+![Apache Web Server running locally](screenshots/apache-page.png)
 
 ## Installation and Deployment
 
